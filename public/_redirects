@@ -1,1 +1,1 @@
-/api/* http://www.omdbapi.com?apikey=9c80df1e/:splat 200!
+/* /index.html 200
