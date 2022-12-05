@@ -6,7 +6,7 @@ import './App.css';
 
 //9c80df1e
 
-const API_URL = 'http://www.omdbapi.com?apikey=9c80df1e';
+const API_URL = 'https://www.omdbapi.com?apikey=9c80df1e';
 
 const App = () => {
     const [movies, setMovies] = useState([]);
